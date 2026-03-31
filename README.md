@@ -8,11 +8,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/DANGTHANH2k7/my_leetcode_journey/tree/master/0079-word-search) |
 | [0435-non-overlapping-intervals](https://github.com/DANGTHANH2k7/my_leetcode_journey/tree/master/0435-non-overlapping-intervals) |
+| [0473-matchsticks-to-square](https://github.com/DANGTHANH2k7/my_leetcode_journey/tree/master/0473-matchsticks-to-square) |
 | [1219-path-with-maximum-gold](https://github.com/DANGTHANH2k7/my_leetcode_journey/tree/master/1219-path-with-maximum-gold) |
 ## Backtracking
 |  |
 | ------- |
 | [0079-word-search](https://github.com/DANGTHANH2k7/my_leetcode_journey/tree/master/0079-word-search) |
+| [0473-matchsticks-to-square](https://github.com/DANGTHANH2k7/my_leetcode_journey/tree/master/0473-matchsticks-to-square) |
 | [1219-path-with-maximum-gold](https://github.com/DANGTHANH2k7/my_leetcode_journey/tree/master/1219-path-with-maximum-gold) |
 ## Matrix
 |  |
@@ -31,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/DANGTHANH2k7/my_leetcode_journey/tree/master/0435-non-overlapping-intervals) |
+| [0473-matchsticks-to-square](https://github.com/DANGTHANH2k7/my_leetcode_journey/tree/master/0473-matchsticks-to-square) |
 ## Greedy
 |  |
 | ------- |
@@ -39,4 +42,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/DANGTHANH2k7/my_leetcode_journey/tree/master/0435-non-overlapping-intervals) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0473-matchsticks-to-square](https://github.com/DANGTHANH2k7/my_leetcode_journey/tree/master/0473-matchsticks-to-square) |
+## Bitmask
+|  |
+| ------- |
+| [0473-matchsticks-to-square](https://github.com/DANGTHANH2k7/my_leetcode_journey/tree/master/0473-matchsticks-to-square) |
 <!---LeetCode Topics End-->
