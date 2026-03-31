@@ -43,6 +43,9 @@ bool makesquare(int* matchsticks, int matchsticksSize)
                 // nextLen > side: Skip, Backtrack
                 matchsticks[i] = temp;
                 if(found) return true;
+
+                if(currLen == 0 || nextLen == side) 
+                    return false;
             }
         }
         return false;
