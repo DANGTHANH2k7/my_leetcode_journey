@@ -17,7 +17,7 @@ bool makesquare(int* matchsticks, int matchsticksSize)
 
     int side = total / 4;
 
-    if(total / 4.0 - side != 0) 
+    if(total%4) 
         return false;
 
     qsort(matchsticks, matchsticksSize, sizeof(int), cmp);
