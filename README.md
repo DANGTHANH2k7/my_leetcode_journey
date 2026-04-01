@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/DANGTHANH2k7/my_leetcode_journey/tree/master/0079-word-search) |
+| [0409-longest-palindrome](https://github.com/DANGTHANH2k7/my_leetcode_journey/tree/master/0409-longest-palindrome) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0409-longest-palindrome](https://github.com/DANGTHANH2k7/my_leetcode_journey/tree/master/0409-longest-palindrome) |
 | [0435-non-overlapping-intervals](https://github.com/DANGTHANH2k7/my_leetcode_journey/tree/master/0435-non-overlapping-intervals) |
 ## Sorting
 |  |
@@ -50,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0473-matchsticks-to-square](https://github.com/DANGTHANH2k7/my_leetcode_journey/tree/master/0473-matchsticks-to-square) |
+## Hash Table
+|  |
+| ------- |
+| [0409-longest-palindrome](https://github.com/DANGTHANH2k7/my_leetcode_journey/tree/master/0409-longest-palindrome) |
 <!---LeetCode Topics End-->
