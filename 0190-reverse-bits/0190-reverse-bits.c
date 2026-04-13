@@ -1,12 +1,15 @@
+int dao(int n, int len)
+{
+    if(len == 1)
+        return n & 1;
+    int half = len/2;
+    int mask = (1 << len/2) - 1;
+    int right = n & mask;
+    int left = n >> half;
+    return(dao(right, half) << half | dao(left, half));
+}
+
 int reverseBits(int n) 
 {
-    int res = 0;
-    for(int i = 0; i < 32; i++)
-    {
-        int bit = n & 1;
-        res <<= 1;
-        res |= bit;
-        n >>= 1;
-    }
-    return res;
+    return dao(n, 32);
 }
