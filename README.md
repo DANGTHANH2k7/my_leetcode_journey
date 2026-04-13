@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/DANGTHANH2k7/my_leetcode_journey/tree/master/0011-container-with-most-water) |
 | [0053-maximum-subarray](https://github.com/DANGTHANH2k7/my_leetcode_journey/tree/master/0053-maximum-subarray) |
 | [0079-word-search](https://github.com/DANGTHANH2k7/my_leetcode_journey/tree/master/0079-word-search) |
+| [0169-majority-element](https://github.com/DANGTHANH2k7/my_leetcode_journey/tree/master/0169-majority-element) |
 | [0435-non-overlapping-intervals](https://github.com/DANGTHANH2k7/my_leetcode_journey/tree/master/0435-non-overlapping-intervals) |
 | [0473-matchsticks-to-square](https://github.com/DANGTHANH2k7/my_leetcode_journey/tree/master/0473-matchsticks-to-square) |
 | [1219-path-with-maximum-gold](https://github.com/DANGTHANH2k7/my_leetcode_journey/tree/master/1219-path-with-maximum-gold) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/DANGTHANH2k7/my_leetcode_journey/tree/master/0169-majority-element) |
 | [0435-non-overlapping-intervals](https://github.com/DANGTHANH2k7/my_leetcode_journey/tree/master/0435-non-overlapping-intervals) |
 ## Bit Manipulation
 |  |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/DANGTHANH2k7/my_leetcode_journey/tree/master/0169-majority-element) |
 | [0409-longest-palindrome](https://github.com/DANGTHANH2k7/my_leetcode_journey/tree/master/0409-longest-palindrome) |
 ## Two Pointers
 |  |
@@ -68,4 +71,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/DANGTHANH2k7/my_leetcode_journey/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/DANGTHANH2k7/my_leetcode_journey/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/DANGTHANH2k7/my_leetcode_journey/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
