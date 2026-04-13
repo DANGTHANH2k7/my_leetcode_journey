@@ -1,39 +1,33 @@
-int find(int* nums, int l, int mid, int r)
-{
-    int sum = 0;
-    int maxl = INT_MIN;
-    int maxr = INT_MIN;
+int mem[100005]; bool comp[100005];
 
-    for (int i = mid; i >= l; i--)
+int maxsub(int *nums, int k)
+{
+    if(k == 0) 
     {
-        sum += nums[i];
-        maxl = fmax(maxl, sum);
+        mem[0] = nums[0];
+        comp[0] = true;
+        return mem[0];
     }
 
-    sum = 0;
-
-    for (int i = mid + 1; i <= r; i++)
+    if(comp[k]) 
+        return mem[k];
+    else   
     {
-        sum += nums[i];
-        maxr = fmax(maxr, sum);
+        mem[k] = fmax(maxsub(nums, k-1) + nums[k], nums[k]);
+        comp[k] = true;
     }
-
-    return maxl + maxr;
+    return mem[k];
 }
-int dq(int* nums, int l, int r)
-{
-    if(l == r)  return nums[l];
 
-    int m = l + (r - l) / 2;
-    
-    int res1 = dq(nums, l, m);
-    int res2 = dq(nums, m+1, r);
-    int res3 = find(nums, l, m, r);
-
-    return fmax(fmax(res1, res2), res3);
-}
 
 int maxSubArray(int* nums, int numsSize) 
 {
-    return dq(nums, 0, numsSize - 1);
-}
+    int max = INT_MIN;
+    memset(comp, false, sizeof(comp));
+    maxsub(nums, numsSize-1);
+    for(int i = 0; i < numsSize; i++)
+    {
+        max = fmax(max, mem[i]);
+    }
+    return max;
+}   
