@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/DANGTHANH2k7/my_leetcode_journey/tree/master/0011-container-with-most-water) |
 | [0053-maximum-subarray](https://github.com/DANGTHANH2k7/my_leetcode_journey/tree/master/0053-maximum-subarray) |
+| [0078-subsets](https://github.com/DANGTHANH2k7/my_leetcode_journey/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/DANGTHANH2k7/my_leetcode_journey/tree/master/0079-word-search) |
 | [0169-majority-element](https://github.com/DANGTHANH2k7/my_leetcode_journey/tree/master/0169-majority-element) |
 | [0435-non-overlapping-intervals](https://github.com/DANGTHANH2k7/my_leetcode_journey/tree/master/0435-non-overlapping-intervals) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/DANGTHANH2k7/my_leetcode_journey/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/DANGTHANH2k7/my_leetcode_journey/tree/master/0079-word-search) |
 | [0473-matchsticks-to-square](https://github.com/DANGTHANH2k7/my_leetcode_journey/tree/master/0473-matchsticks-to-square) |
 | [1219-path-with-maximum-gold](https://github.com/DANGTHANH2k7/my_leetcode_journey/tree/master/1219-path-with-maximum-gold) |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/DANGTHANH2k7/my_leetcode_journey/tree/master/0078-subsets) |
 | [0190-reverse-bits](https://github.com/DANGTHANH2k7/my_leetcode_journey/tree/master/0190-reverse-bits) |
 | [0473-matchsticks-to-square](https://github.com/DANGTHANH2k7/my_leetcode_journey/tree/master/0473-matchsticks-to-square) |
 ## Bitmask
