@@ -1,4 +1,4 @@
-int memo[1000];
+//int memo[1000];
 
 // int dp(int i, int* cost)
 // {
@@ -13,11 +13,14 @@ int memo[1000];
 
 int minCostClimbingStairs(int* cost, int costSize) 
 {
-    memset(memo, 0, sizeof(memo));
-    memo[0]=cost[0], memo[1]=cost[1];
+    //memset(memo, 0, sizeof(memo));
+    //memo[0]=cost[0], memo[1]=cost[1];
+    int cur;
+    int pre2 = cost[0], pre1 = cost[1];
     for(int i = 2; i < costSize; i++)
     {
-        memo[i] = fmin(memo[i-1], memo[i-2]) + cost[i];
+        cur = fmin(pre1, pre2) + cost[i];
+        pre2 = pre1; pre1 = cur;
     }
-    return fmin(memo[costSize-1], memo[costSize-2]);
+    return fmin(pre1, pre2);
 }
