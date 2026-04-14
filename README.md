@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/DANGTHANH2k7/my_leetcode_journey/tree/master/0169-majority-element) |
 | [0435-non-overlapping-intervals](https://github.com/DANGTHANH2k7/my_leetcode_journey/tree/master/0435-non-overlapping-intervals) |
 | [0473-matchsticks-to-square](https://github.com/DANGTHANH2k7/my_leetcode_journey/tree/master/0473-matchsticks-to-square) |
+| [0746-min-cost-climbing-stairs](https://github.com/DANGTHANH2k7/my_leetcode_journey/tree/master/0746-min-cost-climbing-stairs) |
 | [1219-path-with-maximum-gold](https://github.com/DANGTHANH2k7/my_leetcode_journey/tree/master/1219-path-with-maximum-gold) |
 ## Backtracking
 |  |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/DANGTHANH2k7/my_leetcode_journey/tree/master/0070-climbing-stairs) |
 | [0435-non-overlapping-intervals](https://github.com/DANGTHANH2k7/my_leetcode_journey/tree/master/0435-non-overlapping-intervals) |
 | [0473-matchsticks-to-square](https://github.com/DANGTHANH2k7/my_leetcode_journey/tree/master/0473-matchsticks-to-square) |
+| [0746-min-cost-climbing-stairs](https://github.com/DANGTHANH2k7/my_leetcode_journey/tree/master/0746-min-cost-climbing-stairs) |
 ## Greedy
 |  |
 | ------- |
