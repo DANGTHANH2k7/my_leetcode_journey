@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/DANGTHANH2k7/my_leetcode_journey/tree/master/0079-word-search) |
 | [0409-longest-palindrome](https://github.com/DANGTHANH2k7/my_leetcode_journey/tree/master/0409-longest-palindrome) |
+| [1143-longest-common-subsequence](https://github.com/DANGTHANH2k7/my_leetcode_journey/tree/master/1143-longest-common-subsequence) |
 | [1763-longest-nice-substring](https://github.com/DANGTHANH2k7/my_leetcode_journey/tree/master/1763-longest-nice-substring) |
 ## Depth-First Search
 |  |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/DANGTHANH2k7/my_leetcode_journey/tree/master/0435-non-overlapping-intervals) |
 | [0473-matchsticks-to-square](https://github.com/DANGTHANH2k7/my_leetcode_journey/tree/master/0473-matchsticks-to-square) |
 | [0746-min-cost-climbing-stairs](https://github.com/DANGTHANH2k7/my_leetcode_journey/tree/master/0746-min-cost-climbing-stairs) |
+| [1143-longest-common-subsequence](https://github.com/DANGTHANH2k7/my_leetcode_journey/tree/master/1143-longest-common-subsequence) |
 ## Greedy
 |  |
 | ------- |
