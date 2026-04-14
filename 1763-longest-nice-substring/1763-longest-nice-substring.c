@@ -1,4 +1,3 @@
-char nsub[100];
 //a-z: 97 - 122
 //A-Z: 65-90
 
@@ -35,7 +34,7 @@ char* daq(char *s, int l, int r)
     if(delimNum == 0)
     {
         char *sub = (char *) malloc (sizeof(char) * (len+1));
-        strncpy(sub,s+l, len);
+        strncpy(sub, s+l, len);
         sub[len] = '\0';
         return sub;
     }
@@ -62,6 +61,6 @@ char* daq(char *s, int l, int r)
 char* longestNiceSubstring(char* s)
 {
     int slen = strlen(s);
-    char* nsub = daq(s, 0, slen-1);
-    return nsub; 
+    return daq(s, 0, slen-1);
 }
+
