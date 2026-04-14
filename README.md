@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/DANGTHANH2k7/my_leetcode_journey/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/DANGTHANH2k7/my_leetcode_journey/tree/master/0070-climbing-stairs) |
 | [0435-non-overlapping-intervals](https://github.com/DANGTHANH2k7/my_leetcode_journey/tree/master/0435-non-overlapping-intervals) |
 | [0473-matchsticks-to-square](https://github.com/DANGTHANH2k7/my_leetcode_journey/tree/master/0473-matchsticks-to-square) |
 ## Greedy
@@ -91,4 +92,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1763-longest-nice-substring](https://github.com/DANGTHANH2k7/my_leetcode_journey/tree/master/1763-longest-nice-substring) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/DANGTHANH2k7/my_leetcode_journey/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/DANGTHANH2k7/my_leetcode_journey/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
