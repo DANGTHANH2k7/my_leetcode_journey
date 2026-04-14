@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/DANGTHANH2k7/my_leetcode_journey/tree/master/0079-word-search) |
 | [0409-longest-palindrome](https://github.com/DANGTHANH2k7/my_leetcode_journey/tree/master/0409-longest-palindrome) |
+| [1763-longest-nice-substring](https://github.com/DANGTHANH2k7/my_leetcode_journey/tree/master/1763-longest-nice-substring) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/DANGTHANH2k7/my_leetcode_journey/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/DANGTHANH2k7/my_leetcode_journey/tree/master/0191-number-of-1-bits) |
 | [0473-matchsticks-to-square](https://github.com/DANGTHANH2k7/my_leetcode_journey/tree/master/0473-matchsticks-to-square) |
+| [1763-longest-nice-substring](https://github.com/DANGTHANH2k7/my_leetcode_journey/tree/master/1763-longest-nice-substring) |
 ## Bitmask
 |  |
 | ------- |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/DANGTHANH2k7/my_leetcode_journey/tree/master/0169-majority-element) |
 | [0409-longest-palindrome](https://github.com/DANGTHANH2k7/my_leetcode_journey/tree/master/0409-longest-palindrome) |
+| [1763-longest-nice-substring](https://github.com/DANGTHANH2k7/my_leetcode_journey/tree/master/1763-longest-nice-substring) |
 ## Two Pointers
 |  |
 | ------- |
@@ -79,8 +82,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/DANGTHANH2k7/my_leetcode_journey/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/DANGTHANH2k7/my_leetcode_journey/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/DANGTHANH2k7/my_leetcode_journey/tree/master/0191-number-of-1-bits) |
+| [1763-longest-nice-substring](https://github.com/DANGTHANH2k7/my_leetcode_journey/tree/master/1763-longest-nice-substring) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/DANGTHANH2k7/my_leetcode_journey/tree/master/0169-majority-element) |
+## Sliding Window
+|  |
+| ------- |
+| [1763-longest-nice-substring](https://github.com/DANGTHANH2k7/my_leetcode_journey/tree/master/1763-longest-nice-substring) |
 <!---LeetCode Topics End-->
