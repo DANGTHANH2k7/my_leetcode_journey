@@ -26,7 +26,6 @@ int dp(int* nums, int i)
 int lengthOfLIS(int* nums, int numsSize) 
 {
     memset(memo, 0, sizeof(memo));
-    dp(nums, numsSize-1);
     int res = -1;
     for(int i = 0; i < numsSize; i++)
     {
