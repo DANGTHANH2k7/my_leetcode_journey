@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/DANGTHANH2k7/my_leetcode_journey/tree/master/0079-word-search) |
 | [0169-majority-element](https://github.com/DANGTHANH2k7/my_leetcode_journey/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/DANGTHANH2k7/my_leetcode_journey/tree/master/0198-house-robber) |
+| [0300-longest-increasing-subsequence](https://github.com/DANGTHANH2k7/my_leetcode_journey/tree/master/0300-longest-increasing-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/DANGTHANH2k7/my_leetcode_journey/tree/master/0435-non-overlapping-intervals) |
 | [0473-matchsticks-to-square](https://github.com/DANGTHANH2k7/my_leetcode_journey/tree/master/0473-matchsticks-to-square) |
 | [0746-min-cost-climbing-stairs](https://github.com/DANGTHANH2k7/my_leetcode_journey/tree/master/0746-min-cost-climbing-stairs) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/DANGTHANH2k7/my_leetcode_journey/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/DANGTHANH2k7/my_leetcode_journey/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/DANGTHANH2k7/my_leetcode_journey/tree/master/0198-house-robber) |
+| [0300-longest-increasing-subsequence](https://github.com/DANGTHANH2k7/my_leetcode_journey/tree/master/0300-longest-increasing-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/DANGTHANH2k7/my_leetcode_journey/tree/master/0435-non-overlapping-intervals) |
 | [0473-matchsticks-to-square](https://github.com/DANGTHANH2k7/my_leetcode_journey/tree/master/0473-matchsticks-to-square) |
 | [0746-min-cost-climbing-stairs](https://github.com/DANGTHANH2k7/my_leetcode_journey/tree/master/0746-min-cost-climbing-stairs) |
@@ -106,4 +108,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/DANGTHANH2k7/my_leetcode_journey/tree/master/0070-climbing-stairs) |
+## Binary Search
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/DANGTHANH2k7/my_leetcode_journey/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
