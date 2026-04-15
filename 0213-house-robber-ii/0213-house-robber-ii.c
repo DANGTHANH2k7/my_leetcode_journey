@@ -2,7 +2,7 @@ int memo[100];
 
 int dp(int* nums, int i, int start)
 {
-    if(start == 1) memo[0] = 0;
+    if(i < start) return 0;
 
     if(i == start)
     {   
