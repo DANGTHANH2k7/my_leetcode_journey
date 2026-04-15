@@ -10,14 +10,6 @@ int dp(int* nums, int i, int start)
         return nums[start];
     }
 
-    if(start == 0)
-    {
-        if(i == 1)
-        {
-            memo[1] = fmax(nums[0], nums[1]);
-        }
-    }
-
     if(memo[i] != -1) return memo[i];
     memo[i] = fmax(dp(nums, i-1, start), dp(nums, i-2, start) + nums[i]);
 
