@@ -29,12 +29,7 @@ int rob(int* nums, int numsSize)
     if(numsSize==1) return nums[0];
 
     memset(memo, -1, sizeof(memo));
-    int res1 = -1;
-    dp(nums, numsSize-2, 0);
-    for(int i = 0; i <= numsSize-2; i++)
-    {
-        res1 = fmax(res1, memo[i]);
-    }
+    int res1 = dp(nums, numsSize-2, 0);
     memset(memo, -1, sizeof(memo));
     int res2 = dp(nums, numsSize-1, 1);
     return fmax(res1, res2);
