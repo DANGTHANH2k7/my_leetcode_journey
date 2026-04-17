@@ -1,45 +1,40 @@
 int start, maxLen;
-int memo[1005][1005]; char ans[1005]; // N*: Length, -1: Original, -2: No substring end i:j
-int dp(char*s, int i, int j)
-{
-    if(i == j) return 1;
-    if(i > j) return 0;
-
-    if(memo[i][j] != -1) return memo[i][j];
-
-    if(s[i] == s[j])
-    {
-        int inner = dp(s, i+1, j-1);
-        if(inner != -2)
-        {
-            memo[i][j] = inner + 2;
-            return memo[i][j];
-        }
-        else memo[i][j] = -2;
-    }
-    else memo[i][j] = -2;
-    
-    return memo[i][j];
-}
+char ans[1005]; 
 
 char* longestPalindrome(char* s) 
 {
-    start = 0, maxLen = 1;
-    memset(memo, -1, sizeof(memo));
-    int slen = strlen(s);
-    for(int i = 0; i < slen; i++)
+    int n = strlen(s);
+    if (n <= 1) return s;
+
+    start = 0;
+    maxLen = 1;
+    
+    for (int i = 0; i < n; i++) 
     {
-        for(int j = i; j < slen; j++)
+        //Tam la ki tu
+        int l = i, r = i;
+        while (l >= 0 && r < n && s[l] == s[r]) 
         {
-            int curLen = dp(s, i, j);
-            if(curLen > maxLen)
-            {
-                maxLen = curLen;
-                start = i;
+            if (r - l + 1 > maxLen) {
+                maxLen = r - l + 1;
+                start = l;
             }
+            l--; r++;
+        }
+        //Tam la khoang trong giua 2 ki tu
+        l = i, r = i + 1;
+        while (l >= 0 && r < n && s[l] == s[r]) 
+        {
+            if (r - l + 1 > maxLen) {
+                maxLen = r - l + 1;
+                start = l;
+            }
+            l--; r++;
         }
     }
-    strncpy(ans, s+start, maxLen);
-    ans[maxLen] = '\0';
+
+    strncpy(ans, s + start, maxLen);
+    ans[maxLen] = '\0'; 
+
     return ans;
 }
