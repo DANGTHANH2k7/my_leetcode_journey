@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/DANGTHANH2k7/my_leetcode_journey/tree/master/0005-longest-palindromic-substring) |
 | [0079-word-search](https://github.com/DANGTHANH2k7/my_leetcode_journey/tree/master/0079-word-search) |
 | [0409-longest-palindrome](https://github.com/DANGTHANH2k7/my_leetcode_journey/tree/master/0409-longest-palindrome) |
 | [1143-longest-common-subsequence](https://github.com/DANGTHANH2k7/my_leetcode_journey/tree/master/1143-longest-common-subsequence) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/DANGTHANH2k7/my_leetcode_journey/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/DANGTHANH2k7/my_leetcode_journey/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/DANGTHANH2k7/my_leetcode_journey/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/DANGTHANH2k7/my_leetcode_journey/tree/master/0198-house-robber) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/DANGTHANH2k7/my_leetcode_journey/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/DANGTHANH2k7/my_leetcode_journey/tree/master/0011-container-with-most-water) |
 ## Divide and Conquer
 |  |
