@@ -117,4 +117,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/DANGTHANH2k7/my_leetcode_journey/tree/master/0300-longest-increasing-subsequence) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/DANGTHANH2k7/my_leetcode_journey/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/DANGTHANH2k7/my_leetcode_journey/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
