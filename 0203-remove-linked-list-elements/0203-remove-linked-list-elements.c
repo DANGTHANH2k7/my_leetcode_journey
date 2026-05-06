@@ -11,11 +11,10 @@ struct ListNode* removeElements(struct ListNode* head, int val)
     
     typedef struct ListNode node;
     node* ans = head; node* pre = head;
-    while(head->val == val)
+    while(head != NULL && head->val == val)
     {
         head = head->next;
         ans = head;
-        if(ans == NULL) return ans;
     }    
     while(head != NULL)
     {
@@ -25,7 +24,8 @@ struct ListNode* removeElements(struct ListNode* head, int val)
             head = head->next;
         }
         else
-        {   pre = head;
+        {  
+            pre = head;
             head = head->next;
         }
     }
