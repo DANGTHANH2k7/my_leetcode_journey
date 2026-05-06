@@ -13,7 +13,6 @@ struct ListNode* removeElements(struct ListNode* head, int val)
     node* ans = head; node* pre = head;
     while(head->val == val)
     {
-        pre = head;
         head = head->next;
         ans = head;
         if(ans == NULL) return ans;
