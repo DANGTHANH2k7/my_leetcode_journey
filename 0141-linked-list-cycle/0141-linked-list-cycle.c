@@ -13,7 +13,7 @@ bool hasCycle(struct ListNode *head)
     typedef struct ListNode node;
     node* s = head; node* f = head;
 
-    while(f != NULL && f->next != NULL)
+    while(f->next != NULL && f->next->next != NULL)
     {
         s = s->next;
         f = f->next->next;
