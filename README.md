@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/DANGTHANH2k7/my_leetcode_journey/tree/master/0070-climbing-stairs) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/DANGTHANH2k7/my_leetcode_journey/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Memoization
 |  |
 | ------- |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/DANGTHANH2k7/my_leetcode_journey/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/DANGTHANH2k7/my_leetcode_journey/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/DANGTHANH2k7/my_leetcode_journey/tree/master/0234-palindrome-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/DANGTHANH2k7/my_leetcode_journey/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
 |  |
 | ------- |
