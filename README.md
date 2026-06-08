@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/DANGTHANH2k7/my_leetcode_journey/tree/master/0079-word-search) |
+| [0226-invert-binary-tree](https://github.com/DANGTHANH2k7/my_leetcode_journey/tree/master/0226-invert-binary-tree) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -163,4 +164,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0143-reorder-list](https://github.com/DANGTHANH2k7/my_leetcode_journey/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/DANGTHANH2k7/my_leetcode_journey/tree/master/0234-palindrome-linked-list) |
+## Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/DANGTHANH2k7/my_leetcode_journey/tree/master/0226-invert-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/DANGTHANH2k7/my_leetcode_journey/tree/master/0226-invert-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/DANGTHANH2k7/my_leetcode_journey/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
