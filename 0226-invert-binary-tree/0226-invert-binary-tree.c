@@ -20,10 +20,8 @@ struct TreeNode* invertTree(struct TreeNode* root)
         root->right = tmp;
     }
 
-    if(root->left&& 
-    (root->left->left || root->left->right)) invertTree(root->left);
-    if(root->right && 
-    (root->right->left || root->right->right)) invertTree(root->right);
+    if(root->left) invertTree(root->left);
+    if(root->right) invertTree(root->right);
 
     return root;
 } 
