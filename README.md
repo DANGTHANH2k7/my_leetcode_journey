@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/DANGTHANH2k7/my_leetcode_journey/tree/master/0079-word-search) |
+| [0094-binary-tree-inorder-traversal](https://github.com/DANGTHANH2k7/my_leetcode_journey/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/DANGTHANH2k7/my_leetcode_journey/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/DANGTHANH2k7/my_leetcode_journey/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/DANGTHANH2k7/my_leetcode_journey/tree/master/0543-diameter-of-binary-tree) |
@@ -164,11 +165,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/DANGTHANH2k7/my_leetcode_journey/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/DANGTHANH2k7/my_leetcode_journey/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/DANGTHANH2k7/my_leetcode_journey/tree/master/0234-palindrome-linked-list) |
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/DANGTHANH2k7/my_leetcode_journey/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/DANGTHANH2k7/my_leetcode_journey/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/DANGTHANH2k7/my_leetcode_journey/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/DANGTHANH2k7/my_leetcode_journey/tree/master/0543-diameter-of-binary-tree) |
@@ -180,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/DANGTHANH2k7/my_leetcode_journey/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/DANGTHANH2k7/my_leetcode_journey/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/DANGTHANH2k7/my_leetcode_journey/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/DANGTHANH2k7/my_leetcode_journey/tree/master/0543-diameter-of-binary-tree) |
